@@ -12,6 +12,7 @@
 
 #include "lvgl/lvgl.h"
 #include "lvgl/demos/lv_demos.h"
+#include "lv_100ask_lesson_demos_conf.h"
 
 /*********************
  *      DEFINES
@@ -51,8 +52,10 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR szCmdLi
 
     /*Run the demo*/
     //lv_demo_widgets();
-    char * demo_str[] = {"widgets"};
-    lv_demos_create(demo_str, strlen((char * )demo_str));
+//    char * demo_str[] = {"widgets"};
+//    lv_demos_create(demo_str, strlen((char * )demo_str));
+
+    lesson_2_3_1();
 
     while(1) {
         /* Periodically call the lv_task handler.

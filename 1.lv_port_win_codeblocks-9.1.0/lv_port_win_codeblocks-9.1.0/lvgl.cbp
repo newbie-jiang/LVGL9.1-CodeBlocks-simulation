@@ -49,6 +49,129 @@
 			<Add option="-Wall" />
 			<Add directory="." />
 		</Compiler>
+		<Unit filename="lv_100ask_lesson_demos/lv_100ask_lesson_demos.h" />
+		<Unit filename="lv_100ask_lesson_demos/lv_100ask_lesson_demos_conf_template.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_3_1/lesson_2_3_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_3_1/lesson_2_3_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_4_1/lesson_2_4_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_4_1/lesson_2_4_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_5_1/lesson_2_5_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_5_1/lesson_2_5_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_6_1/lesson_2_6_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_6_1/lesson_2_6_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_7_1/lesson_2_7_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_7_1/lesson_2_7_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_8_1/lesson_2_8_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_8_1/lesson_2_8_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_9_1/lesson_2_9_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_2_9_1/lesson_2_9_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_10_1/lesson_3_10_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_10_1/lesson_3_10_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_11_1/lesson_3_11_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_11_1/lesson_3_11_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_12_1/lesson_3_12_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_12_1/lesson_3_12_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_13_1/lesson_3_13_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_13_1/lesson_3_13_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_14_1/lesson_3_14_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_14_1/lesson_3_14_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_15_1/lesson_3_15_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_15_1/lesson_3_15_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_16_1/lesson_3_16_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_16_1/lesson_3_16_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_17_1/lesson_3_17_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_17_1/lesson_3_17_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_18_1/lesson_3_18_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_18_1/lesson_3_18_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_19_1/lesson_3_19_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_19_1/lesson_3_19_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_1_1/lesson_3_1_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_1_1/lesson_3_1_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_1_1/lv_font_source_han_sans_bold_28.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_20_1/lesson_3_20_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_20_1/lesson_3_20_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_21_1/lesson_3_21_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_21_1/lesson_3_21_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_22_1/lesson_3_22_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_22_1/lesson_3_22_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_2_1/lesson_3_2_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_2_1/lesson_3_2_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_3_1/lesson_3_3_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_3_1/lesson_3_3_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_4_1/lesson_3_4_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_4_1/lesson_3_4_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_5_1/lesson_3_5_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_5_1/lesson_3_5_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_6_1/lesson_3_6_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_6_1/lesson_3_6_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_7_1/lesson_3_7_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_7_1/lesson_3_7_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_8_1/lesson_3_8_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_8_1/lesson_3_8_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_9_1/lesson_3_9_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lv_100ask_lesson_demos/src/lesson_3_9_1/lesson_3_9_1.h" />
+		<Unit filename="lv_100ask_lesson_demos/src/lv_100ask_lesson_demos.h" />
+		<Unit filename="lv_100ask_lesson_demos_conf.h" />
 		<Unit filename="lv_conf.h" />
 		<Unit filename="lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c">
 			<Option compilerVar="CC" />
